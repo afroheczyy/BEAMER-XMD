@@ -1,5 +1,5 @@
 {
-  "name": "BEAMER XMD 🚘",
+  "name": "AFROX XMD 🚘",
   "description": "A multi-device WhatsApp bot inspired by BMW performance and luxury styling.",
   "repository": "",
   "keywords": ["whatsapp", "bot", "multi-device", "automation", "cars"],
@@ -29,7 +29,7 @@
     "BOT_NAME": {
       "description": "Display name of the bot.",
       "required": false,
-      "value": "BEAMER XMD"
+      "value": "AFROX XMD"
     },
     "MODE": {
       "description": "Bot mode: private or public.",
