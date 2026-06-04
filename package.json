@@ -1,5 +1,5 @@
 {
-    "name": "BEAMER XMD",
+    "name": "AFROX XMD",
     "version": "2.0.0",
     "description": "WhatsApp bot inspired by BMW and DODGE",
     "main": "index.js",
@@ -10,9 +10,9 @@
         "install:no-puppeteer": "PUPPETEER_SKIP_DOWNLOAD=true PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true npm install"
     },
     "keywords": [
-        "BEAMER XMD"
+        "AFROX XMD"
     ],
-    "author": "MR LEE",
+    "author": "MR AFROX",
     "license": "MIT",
     "dependencies": {
         "@bochilteam/scraper": "^5.0.1",
